@@ -4,7 +4,4 @@ theme: just-the-docs
 
 url: https://almightyai.github.io/python
 
-aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: https://github.com/almightyai/python
-
 color_scheme: custom
